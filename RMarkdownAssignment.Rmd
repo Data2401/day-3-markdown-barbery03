@@ -1,6 +1,6 @@
 ---
 title: 'RMarkdown:  In Class Assignment'
-author: "YOUR NAME HERE"
+author: "LUIS BARBERY"
 date: "Data 2401"
 output: html_document
 ---
@@ -34,4 +34,32 @@ Reminder: We learned how to do these things in class today, but there is a "Mark
 Note that you can click "Knit" as you go along to see what the final results are going to look like. The knitting will produce an html file, which you will also need to stage/commit/push once it exists! 
 
 **Once you're done, remember to commit the changes and push the repo back to your assignment on GitHub!**
+
+
+## My work here
+
+### Wise words
+
+> "Retreat? Hell, we just got here!" - Capt. Lloyd W. Williams
+
+https://www.worldwar1centennial.org/index.php/communicate/press-media/wwi-centennial-news/4564-retreat-hell-we-just-got-here-the-marines-at-belleau-wood-and-blanc-mont.html
+
+### My Semester
+
+| **Course Number** | *Course Title*         | Instructor Name  |
+|-------------------|------------------------|------------------|
+| **DATA_2401**         | *DATA SCIENCE 1* | Dr. Shoemaker |
+| **MATH_2305**       | *DISCRETE MATH*          | Professor Nakamura |       |
+| **MATH_2421**        | *DATA CALCULUS*    | Professor Koshkin |
+| **PHIL_2305**        | *PHIL_2305*        | Professor Wrobel |
+
+### I recommend 
+
+#### Bob Dylan 
+
+> "All I can do is be me, whoever that is."
+
+- *Blowin' in the Wind*
+- *Mr. Tambourine Man*
+- *Hurricane*
  
